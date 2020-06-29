@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-  font-color: 153, 173, 166;
+  rgba: 153, 173, 166, 0;
 }
 
 

@@ -18,7 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
-
+p {
+  font-size: 100px;
+}
 
 
 
